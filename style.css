@@ -1,0 +1,24 @@
+.container{
+    background-color: rgb(152, 31, 222);
+    color: white;
+    min-height: 500px;
+}
+.box{
+    /* background-image: url(back.jpg); */
+    border: 2px solid rgb(140, 8, 210);
+    display: flex;
+    justify-content: flex-start;
+    padding:60px;
+    margin-left: 250px;
+    margin-top: 150px;
+    background-color: rgb(252, 252, 252);
+    color: rgb(0, 0, 0);
+    
+    
+    
+    
+}
+.id{
+    display: flex;
+    justify-content: center;
+}
